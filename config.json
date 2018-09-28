@@ -1,0 +1,32 @@
+{
+"algo": "cryptonight",
+"av": 0,
+"background": false,
+"colors": true,
+"cpu-affinity": null,
+"cpu-priority": 5,
+"donate-level": 1,
+"log-file": null,
+"max-cpu-usage": 100,
+"print-time": 5,
+"retries": 5,
+"retry-pause": 5,
+"safe": true,
+"threads": null,
+"pools":
+[
+{
+"url": "pool.supportxmr.com:3333",
+"user": "48joveTzkpuPaG4cepofWWXcZbMh1awN6MALoU1QVZSRJaAsUNrYShb9s99ifiKnj8AbwmWzSX9NiHFWtPj71PqJ95XdKn2",
+"pool_password" : "VPScentos:walter.xhofleer01@gmail.com",
+"keepalive": true,
+"nicehash": false
+}
+],
+"api":
+{
+"port": 0,
+"access-token": null,
+"worker-id": null
+}
+}
